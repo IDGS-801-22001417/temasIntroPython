@@ -11,6 +11,7 @@ saludoFinal2="Saludo: {x} {y}".format(x=texto1,y=texto2)
 print(saludoFinal2)
 
 texto="Desarrollo web profesional UTL"
+
 print(texto)
 print(texto.lower())
 print(texto.upper())
