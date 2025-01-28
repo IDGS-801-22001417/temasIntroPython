@@ -7,6 +7,7 @@ def suma():
     res = num1 + num2
     print(f'Resultado: {res}')
 
+
 def resta():
     os.system('cls')
     num1=int(input("Numero 1: "))

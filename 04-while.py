@@ -5,6 +5,7 @@ while x<10:
     x = x+1
     '''
 
+
 ''' Operación de multiplicación de a x b utilizando sumas
     a=3
     b=4
