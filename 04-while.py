@@ -19,7 +19,10 @@ salida = ""
 
 while b>cont:
     resultado = resultado + a
-    salida += str(a) + "+"
+    if (b-1) == cont:
+        salida += str(a)
+    else:
+        salida += str(a) + "+"
     cont = cont + 1
 
 texto = salida + " = " + str(resultado)

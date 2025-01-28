@@ -8,6 +8,6 @@ for i in range(20):
     print(i)
 '''
 
-number = int(input('Numero: '))
+number = int(input('Ingrese el numero del cual quiere la tabla: '))
 for i in range(10):
     print(number, "x", i+1, "=", number * (i+1))
